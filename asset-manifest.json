@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_form/static/css/main.36dce887.css",
-    "main.js": "/react_form/static/js/main.3da90ca4.js",
-    "static/js/787.aeb39de0.chunk.js": "/react_form/static/js/787.aeb39de0.chunk.js",
-    "static/media/positive.jpg": "/react_form/static/media/positive.909cf41efcc293ebc5c3.jpg",
-    "index.html": "/react_form/index.html",
-    "main.36dce887.css.map": "/react_form/static/css/main.36dce887.css.map",
-    "main.3da90ca4.js.map": "/react_form/static/js/main.3da90ca4.js.map",
-    "787.aeb39de0.chunk.js.map": "/react_form/static/js/787.aeb39de0.chunk.js.map"
+    "main.css": "/crudfform/static/css/main.961cb6b6.css",
+    "main.js": "/crudfform/static/js/main.f456c6c2.js",
+    "static/js/787.aeb39de0.chunk.js": "/crudfform/static/js/787.aeb39de0.chunk.js",
+    "static/media/positive.jpg": "/crudfform/static/media/positive.909cf41efcc293ebc5c3.jpg",
+    "index.html": "/crudfform/index.html",
+    "main.961cb6b6.css.map": "/crudfform/static/css/main.961cb6b6.css.map",
+    "main.f456c6c2.js.map": "/crudfform/static/js/main.f456c6c2.js.map",
+    "787.aeb39de0.chunk.js.map": "/crudfform/static/js/787.aeb39de0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36dce887.css",
-    "static/js/main.3da90ca4.js"
+    "static/css/main.961cb6b6.css",
+    "static/js/main.f456c6c2.js"
   ]
 }
